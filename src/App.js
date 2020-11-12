@@ -14,7 +14,7 @@ function App() {
         <FooterInner>
           Avin Irza Mahendra
           SP.3.2 / 1119101711{" "}
-          <a href="https://github.com/Clarity-89/React_tic_tac_toe">Github</a>
+          <a href="https://github.com/Avin169/apin.git">Github</a>
         </FooterInner>
       </Footer>
     </>
