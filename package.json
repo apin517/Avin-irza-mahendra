@@ -1,8 +1,8 @@
 {
   "name": "react_tic_tac_toe",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://github.com/Clarity-89/React_tic_tac_toe.git",
+  "private": false,
+  "homepage": "https://github.com/Avin169/apin.git",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "papercss": "^1.8.1",
