@@ -2,7 +2,7 @@
   "name": "react_tic_tac_toe",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/apin517/Avin-irza-mahendra.git",
+  "homepage": "https://apin517.github.io/Avin-irza-mahendra/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "papercss": "^1.8.1",
